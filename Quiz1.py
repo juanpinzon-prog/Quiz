@@ -1,6 +1,5 @@
 """
 Quiz de Economía/Finanzas con ML - Versión Mejorada
-Base de datos con 3 dificultades + Mejor interfaz + Más preguntas
 """
 import sys
 import os
