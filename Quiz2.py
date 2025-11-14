@@ -1,10 +1,10 @@
 """
 Quiz de Economía/Finanzas 
 """
-import sys
-import os
-import sqlite3
-import random
+import sys   # Proporciona funciones y variables para manipular el entorno de ejecución de Py
+import os    # Permite interactuar con el sistema operativo
+import sqlite3 # Proporciona una interfaz para trabajar con bases de datos SQLite
+import random  # Ofrece funciones para generar números aleatorios y realizar selecciones aleatorias
 
 # Verificar e instalar dependencias automáticamente si es necesario
 try:
