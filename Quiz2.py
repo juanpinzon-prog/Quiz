@@ -1,6 +1,5 @@
 """
-Quiz de Economía/Finanzas con ML - Versión con Base de Datos
-Ejecutar directamente - Base de datos integrada con 3 dificultades
+Quiz de Economía/Finanzas 
 """
 import sys
 import os
